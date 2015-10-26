@@ -1,0 +1,13 @@
+El informe se hizo basado en el archivo RedesSemanticas, sin embargo aunque logramos la red, se nos complico poder
+responder a preguntas (eso va explicado en el informe). Adjuntamos una versión que hace preguntas llamado:
+VersionPreguntas, pero de manera general, sin oraciones introducidas por el usuario en tiempo de ejecución, es decir
+devuelve gramáticas definidas por ejemplo, si se pregunta:
+quien([come,helado,en,la, cocina,X],[]).
+la aplicación responde: kevin, ana,valery,carlos
+donde([come,kevin,X],[]).
+la aplicación responde: en el carro, en la cocina
+que([come,kevin,X],[]).
+responde: helados,fresas,chocolates
+Esto era como muestra de que al menos intentamos de distintas formas, sin embargo este archivo no incluye redes
+semánticas, lo cual decidimos no incluir en el informe. Por otro lado lo adicional que agregue a este adjunto fue la versión
+del informe en .PDF, ya que el correo anterior fue enviado en .doc.
