@@ -1,0 +1,9 @@
+Soy el estudiante Oscar Esquivel, B22410, trabajo con Diana Garbanzo, B12685, adjunto los archivos de nuestro
+proyecto (informe, ejecutable, y código fuente).
+Adjunto también una versión alternativa del informe. Latex en algunos casos dejaba espacios entre párrafos, espacios
+que no logramos eliminar, por lo que en la versión alternativa se eliminaron los cambios de línea entre esos párrafos para
+no tener esos espacios y no perder puntos.
+El ejecutable es un archivo .jar, en caso de que al intentar correrlo con doble click no funcione, se puede intentar usar el
+archivo "Ejecutar.bat". El resto de las instrucciones están en el archivo "README.txt".
+De nuevo, no se pueden adjuntar archivos ejecutables en los correos, por lo que a los archivos "ComposicionAlgoritmica"
+y "Ejecutar" falta agregarle las terminaciones ".jar" y ".bat" al final, respectivamente.

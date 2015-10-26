@@ -1,0 +1,16 @@
+--Ejemplo de una aplicación
+
+http://algorithmiccomposition.org/
+http://tones.wolfram.com/generate/advanced.html?generator
+
+--Para investigación bibliográfica
+http://cacm.acm.org/magazines/2011/7/109891-algorithmic-composition/fulltext
+https://www.jair.org/media/3908/live-3908-7454-jair.pdf
+http://en.wikipedia.org/wiki/Algorithmic_composition
+
+--Sobre keykit
+http://nosuch.com/keykit/faq.html
+http://nosuch.com/tjt/tunetoys.html
+
+
+--Ahi uno: https://ccrma.stanford.edu/~blackrse/algorithm.html
