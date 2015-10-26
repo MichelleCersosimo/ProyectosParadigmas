@@ -1,0 +1,5 @@
+Unity version más reciente en lenguaje c# y javascript. 
+
+Aplicación desarrollada para MAC OS. 
+
+Paradigma: Simulación
